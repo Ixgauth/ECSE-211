@@ -1,0 +1,1 @@
+This first lab was used as an introduction to the LeJos software and control systems in general. The objective was to create a set of two different wall following systems using two different methods of calculating the speed of movement for the created robot.
